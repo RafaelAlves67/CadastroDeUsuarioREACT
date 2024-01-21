@@ -1,0 +1,15 @@
+aside{
+    width: 100%;
+    height: 1005;
+}
+
+Aside a img{
+    width: 225px;
+    height: 100px;
+}
+
+@media(max-width: 576px){
+    aside.logo img{
+        width: 350px;
+    }
+}
