@@ -8,3 +8,6 @@ Tecnologias usadas:
 - React Router
 - Hooks
 - Manipulação e tratamento de dados
+
+  INICIAR FRONT-END: npm start
+  INICIAR BACK-END: npm run server
