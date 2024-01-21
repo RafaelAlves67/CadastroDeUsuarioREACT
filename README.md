@@ -10,4 +10,6 @@ Tecnologias usadas:
 - Manipulação e tratamento de dados
 
   INICIAR FRONT-END: npm start
+
+  
   INICIAR BACK-END: npm run server
